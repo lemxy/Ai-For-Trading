@@ -1,4 +1,4 @@
-# 🦁 Trading AI Beast V3
+# 🦁 Trading AI 
 
 > Autonomous trading signal system — crypto + stocks, 40 assets, ML-powered, Telegram delivery.
 
